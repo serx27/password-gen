@@ -1,4 +1,4 @@
-# Password generator <sub>(using swing) </sub>
+# Password generator
 with following features:
 - **Customizable Password Length**
 - **Optional Character Types**:  
